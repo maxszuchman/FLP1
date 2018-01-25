@@ -1,0 +1,20 @@
+* Detalles:
+    * Ver si entedimos bien: 
+		- 
+    * Logo?
+* Tecnicas:
+    * Hosting?
+		Donweb -> 
+    * Dominio?
+		www.ingeblasting.com
+    * Repositorio o directamente hosting? Bitbucket?
+    * Analytics?
+    * Form de contacto o directamente links? Tiene un server?
+		Script wpp
+    * Responsive?
+* Gestión
+    * Fecha de entrega? 
+		Fin de febrero
+    * Dudas
+	
+	Diego
